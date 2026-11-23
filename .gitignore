@@ -1,0 +1,39 @@
+# Raw, processed and public training datasets
+data/public/*
+data/local/raw/*
+data/processed/*
+data/splits/*
+
+# Local runtime database, user uploaded images and caches
+data/app/*
+!data/app/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+mandi_cache.json
+
+# Model weights
+models/*.pt
+models/*.pth
+models/*.keras
+!models/mobilenetv2_final.keras
+
+# Python and environment artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
+env/
+
+# Keep directory structure
+!**/.gitkeep
+
+# Secrets and local configurations
+.streamlit/secrets.toml
+.env
+.DS_Store
+Thumbs.db
+

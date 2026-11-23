@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#2C4219"             # Cal Poly green
+backgroundColor = "#FAF6E3"          # warm ivory (tint of Flax)
+secondaryBackgroundColor = "#FFFEF7" # soft ivory for inputs and cards
+textColor = "#433A30"                # Taupe
+font = "sans serif"
+
+[server]
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false

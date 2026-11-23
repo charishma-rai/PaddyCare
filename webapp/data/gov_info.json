@@ -1,0 +1,22 @@
+{
+  "_comment": "Curated by the team. Fill 'verified_on' (YYYY-MM-DD) after checking each item against the official source. Items with no date are shown as 'not yet verified'.",
+  "msp": {
+    "season": "Kharif marketing season 2026-27",
+    "common_per_quintal": 2441,
+    "grade_a_per_quintal": 2461,
+    "note": "Approved by the Cabinet Committee on Economic Affairs on 13 May 2026, as reported by news outlets. Confirm on the official PIB release.",
+    "source_url": "https://pib.gov.in",
+    "verified_on": null
+  },
+  "schemes": [
+    {"name": "PM-KISAN", "summary": "Central government income support scheme for farmer families.", "url": "https://pmkisan.gov.in", "verified_on": null},
+    {"name": "PMFBY (Pradhan Mantri Fasal Bima Yojana)", "summary": "Crop insurance against yield losses from events such as floods, drought and pests.", "url": "https://pmfby.gov.in", "verified_on": null},
+    {"name": "e-NAM", "summary": "Online trading platform that links mandis, so farmers can see prices and sell beyond their local market.", "url": "https://enam.gov.in", "verified_on": null},
+    {"name": "Soil Health Card", "summary": "Soil nutrient report with fertiliser recommendations for your field.", "url": "https://soilhealth.dac.gov.in", "verified_on": null},
+    {"name": "Kisan Call Centre", "summary": "Toll-free advice line for farmers. Number: 1800-180-1551.", "url": "", "verified_on": null}
+  ],
+  "help": [
+    {"name": "Krishi Vigyan Kendra, Dakshina Kannada", "address": "Agricultural Research Station, Kankanady, Mangaluru, Dakshina Kannada 575 002", "phone": "", "verified_on": null},
+    {"name": "Krishi Vigyan Kendra, Udupi", "address": "Brahmavar, Udupi 576 213", "phone": "", "verified_on": null}
+  ]
+}
